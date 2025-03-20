@@ -3,6 +3,7 @@
 const siteConfig = {
   username: "sml1312", // GitHub 사용자 이름
   repositoryName: "blog", // GitHub 저장소 이름
+  baseURL: "/blog",
   mainColor: "#3498db", // 사이트의 주 색상
   textColor: "#333333", // 기본 텍스트 색상
   blogTitle: "SM's Study Blog", // 블로그 제목
